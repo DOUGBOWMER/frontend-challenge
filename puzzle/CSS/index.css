@@ -26,24 +26,24 @@ ul {
     background-color: black;
     align-items: center;
     justify-content: center;
-    border-radius: 10px;/*prestyling value check against original*/
-    margin-block-end: .5em;/*prestyling value check against original*/
+    border-radius: 7px;/*prestyling value check against original*/
+    margin-block-end: .2em;/*prestyling value check against original*/
     position: relative;
 }
 
 li {
     display: flex;
     background-color: white;
-    height:80px;
-    width: 80px;
+    height:70px;
+    width: 70px;
     align-items: center;
     justify-content: center;
     border-style: inset;
-    border-top-color: rgba(220, 220, 220);/*prestyling value check against original*/
-    border-top-color: rgba(220, 220, 220);/*prestyling value check against original*/
+    border-top-color: rgba(216, 216, 216);/*prestyling value check against original*/
+    border-top-color: rgba(216, 216, 216);/*prestyling value check against original*/
     border-width: 7px;
-    font-size: 25px;/*prestyling value check against original*/
-    font-weight: 600;/*prestyling value check against original*/
+    font-size: 30px;/*prestyling value check against original*/
+    font-weight: 500;/*prestyling value check against original*/
     position: absolute;/*Allow for tile to ride above Backgoun*/
     cursor:pointer;
 }
