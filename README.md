@@ -1,3 +1,7 @@
+chore: Modify-Readme-to-begin-chlallenge
+
+I would like to thank you in advance tfor the opportuninty. No matter the outcome it has be a pleasure to be considered. However I am confident in my peronsl abilities and hope to join the team soon!
+
 # Frontend Challenge
 
 These tests will be used to evaluate your skillset and the type of tasks/projects you'd be great for. We encourage you to do both tests. They are different in nature and evaluate different skills. Start with one that better demonstrates your craft.
