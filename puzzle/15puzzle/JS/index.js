@@ -27,11 +27,11 @@ function setBoard() {
     openIndex = 0;
 
     // This will be needed if you want to expand to 15-puzzle
-    // Array(15)
-    // .fill(0)
-    // .forEach((v, i) => {
-    //     i < boardSize - 1 ? tiles[i].style.display = 'flex' : tiles[i].style.display = 'none';
-    // })
+    Array(15)
+    .fill(0)
+    .forEach((v, i) => {
+        i < boardSize - 1 ? tiles[i].style.display = 'flex' : tiles[i].style.display = 'none';
+    })
 }
 
 // add eventListener to all tiles 
